@@ -1,0 +1,1 @@
+area_scan_duty_cycle
